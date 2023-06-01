@@ -1,3 +1,3 @@
 # EdConnect_SoC
-leart html and css
-then learn javascript and now learning to build webiste using react js.
+learnt html and css.
+Then learnt javascript and now learning to build webiste using react js.
